@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **System Design, Design Patterns, Algorithms, Distributed Computing**
 
-- 👯 I’m currently working on [Mini-DBaas](https://github.com/aliwajahat12/mini-dbaas)
+- 👯 I’m currently working on [Meal Now](https://mealnow.io/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/aliwajahat12](https://github.com/aliwajahat12)
 

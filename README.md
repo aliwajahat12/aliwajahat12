@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Wajahat Ali</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
-- 🔭 I’m currently working at **Lumida**
+- 🔭 I’m currently working at [Lumida](https://www.lumidawealth.com/)
 
-- 🌱 I’m currently learning **System Design, Design Patterns, Algorithms, Distributed Computing**
+- 🌱 I’m currently leveling up in **System Design & Distributed Systems, Agents, and ML Infrastructure**
 
 - 👯 I’m currently working on [KhataBot](https://github.com/aliwajahat12/khatabot-web)
 
 - 👨‍💻 All of my projects are available at [https://github.com/aliwajahat12](https://github.com/aliwajahat12)
 
-- 💬 Ask me about **Django and Flutter**
+- 💬 Ask me about **Django, Flutter, and bot/chat automation**
 
 - 📫 How to reach me **aliwajahat1214@gmail.com**
 

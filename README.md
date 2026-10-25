@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/aliwajahat12](https://github.com/aliwajahat12)
 
-- 💬 Ask me about **Django, Flutter, and bot/chat automation**
+- 💬 Ask me about **AI Agents, ML Infrastructure, Django, Flutter, and bot/chat automation**
 
 - 📫 How to reach me **aliwajahat1214@gmail.com**
 
